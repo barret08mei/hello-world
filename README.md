@@ -1,4 +1,3 @@
 # hello-world
 This is my first project, names Hello World.
-import jire 
-print("Hello world")
+running in the test environment,After it's finished will be upload product environment.
